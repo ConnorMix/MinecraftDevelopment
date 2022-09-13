@@ -1,0 +1,7 @@
+name: MyFirstPlugin
+version: '${project.version}'
+main: me.connormixon.myfirstplugin.MyFirstPlugin
+api-version: 1.16
+authors: [ Connor ]
+description: First Plugin
+website: NeebsFamilyCommunity
